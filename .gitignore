@@ -1,0 +1,34 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+*.log
+
+# 큰 raw 데이터 (재생성 가능 — README 참고)
+# 행안부 침수흔적도 API 응답 (39 페이지 캐시 + 통합)
+flood_all.json
+flood_all.geojson
+flood_pages/
+
+# 환경부 토지피복도 압축 풀린 shp + 통합 geojson (132MB+)
+landcover/
+landcover_gwanak/
+landcover_gwanak.geojson
+landcover_merged.geojson
+
+# 도시쇠퇴 집계구 (458MB, 사용 안 함)
+decline_jip.csv
+
+# 행정동 GeoJSON (vuski/admdongkor에서 다운로드, 33MB)
+admdong.geojson
+
+# Copernicus DEM 타일 (AWS S3에서 다운로드)
+dem/*.tif
+dem/*.npz
+
+# 다운로드 폴더 링크 / 로컬 path
+hash.txt
