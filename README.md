@@ -114,13 +114,16 @@ _마지막 자동 갱신: 2026-06-03 KST_
 - [x] **Streamlit 침수 대시보드** (`app_flood.py`) — 4탭, 임계값 슬라이더
 - [x] 결과 요약 markdown (`RESULT_BASELINE.md`)
 
-### 기말발표 (6/18) 까지
-- [ ] Google Street View API 키 발급
-- [ ] 주소 → 사진 → Vision LLM 점수 파이프라인
-- [ ] 통계 점수 + Vision 점수 결합 산식
-- [ ] 자연어 진단 리포트 (LLM) 자동 생성
-- [ ] Streamlit 통합 데모 (관악구 신림동 지점 5~10개)
+### 기말발표 (6/18) 풀스택 완성
+- [x] Kakao Geocoding API (주소 → 좌표) — `geocode.py`
+- [x] Google Street View Static API (좌표 → 4방향 사진) — `streetview.py`
+- [x] 데모 지점 8곳 자동 추출 + 32장 사전 캐싱 — `demo_points.py`
+- [x] OpenAI GPT-4o-mini Vision (사진 → 6요소 점수) — `vision_score.py`
+- [x] 박루나 점수표 100점 만점 hybrid score — `hybrid_score.py`
+- [x] LLM 자연어 진단 + 정책 권고 자동 생성 — `report_gen.py`
+- [x] 통합 Streamlit 대시보드 — `app_hybrid.py`
 - [ ] (옵션) Spatial CV로 더 견고한 성능 평가
+- [ ] 발표 자료 (PPT)
 
 ---
 

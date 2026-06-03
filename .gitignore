@@ -32,3 +32,9 @@ dem/*.npz
 
 # 다운로드 폴더 링크 / 로컬 path
 hash.txt
+
+# Street View 사진 캐시 (재생성 가능)
+streetview_cache/
+
+# 캐시 (재생성 가능)
+geocode_cache.json

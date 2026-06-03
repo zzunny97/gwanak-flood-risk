@@ -1,0 +1,218 @@
+[
+  {
+    "lon": 126.92641500000016,
+    "lat": 37.48215,
+    "cell_id": "45_63",
+    "flood_proba": 0.961793713986206,
+    "impervious_ratio": 0.9999999999999529,
+    "veg_ratio": 0.0,
+    "elev_mean": 28.388420867919923,
+    "slope_mean": 2.3479857305658403,
+    "coverage": "OK",
+    "sv_date": "2015-10",
+    "images": {
+      "0": "streetview_cache/37.482150_126.926415_h0_640x640_fov90.jpg",
+      "90": "streetview_cache/37.482150_126.926415_h90_640x640_fov90.jpg",
+      "180": "streetview_cache/37.482150_126.926415_h180_640x640_fov90.jpg",
+      "270": "streetview_cache/37.482150_126.926415_h270_640x640_fov90.jpg"
+    },
+    "vision": {
+      "impervious_pct": 85,
+      "drainage_score": 5,
+      "flatness_score": 8,
+      "vegetation_pct": 10,
+      "sidewalk_score": 6,
+      "risk_qualitative": 4,
+      "notes": "도로가 대부분 아스팔트로 덮여 있고, 배수구 상태는 보통이다. 그늘이 없는 부분이 많아 식생이 적은 편이다."
+    }
+  },
+  {
+    "lon": 126.93658500000019,
+    "lat": 37.48665,
+    "cell_id": "54_68",
+    "flood_proba": 0.9612649660065481,
+    "impervious_ratio": 1.0000000000000664,
+    "veg_ratio": 0.0,
+    "elev_mean": 28.455779838562012,
+    "slope_mean": 2.949380971448796,
+    "coverage": "OK",
+    "sv_date": "2018-04",
+    "images": {
+      "0": "streetview_cache/37.486650_126.936585_h0_640x640_fov90.jpg",
+      "90": "streetview_cache/37.486650_126.936585_h90_640x640_fov90.jpg",
+      "180": "streetview_cache/37.486650_126.936585_h180_640x640_fov90.jpg",
+      "270": "streetview_cache/37.486650_126.936585_h270_640x640_fov90.jpg"
+    },
+    "vision": {
+      "impervious_pct": 80,
+      "drainage_score": 6,
+      "flatness_score": 7,
+      "vegetation_pct": 20,
+      "sidewalk_score": 6,
+      "risk_qualitative": 5,
+      "notes": "도로와 건물이 많아 불투수면 비율이 높고 배수 상태가 보이지만 평지가 많아 침수 위험이 있음."
+    }
+  },
+  {
+    "lon": 126.92076500000013,
+    "lat": 37.485749999999996,
+    "cell_id": "40_67",
+    "flood_proba": 0.9570566081112918,
+    "impervious_ratio": 0.999999999999912,
+    "veg_ratio": 0.0,
+    "elev_mean": 29.206440734863282,
+    "slope_mean": 3.265496504208855,
+    "coverage": "OK",
+    "sv_date": "2018-04",
+    "images": {
+      "0": "streetview_cache/37.485750_126.920765_h0_640x640_fov90.jpg",
+      "90": "streetview_cache/37.485750_126.920765_h90_640x640_fov90.jpg",
+      "180": "streetview_cache/37.485750_126.920765_h180_640x640_fov90.jpg",
+      "270": "streetview_cache/37.485750_126.920765_h270_640x640_fov90.jpg"
+    },
+    "vision": {
+      "impervious_pct": 80,
+      "drainage_score": 7,
+      "flatness_score": 6,
+      "vegetation_pct": 10,
+      "sidewalk_score": 6,
+      "risk_qualitative": 5,
+      "notes": "주변이 대부분 아스팔트와 건물로 구성되어 있어 불투수면 비율이 높음. 배수구 상태는 양호하나 비가 올 경우 위험할 수 있음."
+    }
+  },
+  {
+    "lon": 126.9456250000002,
+    "lat": 37.483050000000006,
+    "cell_id": "62_64",
+    "flood_proba": 0.9559813200760107,
+    "impervious_ratio": 0.9999999999998024,
+    "veg_ratio": 0.0,
+    "elev_mean": 31.55267791748047,
+    "slope_mean": 2.581185178647841,
+    "coverage": "OK",
+    "sv_date": "2014-11",
+    "images": {
+      "0": "streetview_cache/37.483050_126.945625_h0_640x640_fov90.jpg",
+      "90": "streetview_cache/37.483050_126.945625_h90_640x640_fov90.jpg",
+      "180": "streetview_cache/37.483050_126.945625_h180_640x640_fov90.jpg",
+      "270": "streetview_cache/37.483050_126.945625_h270_640x640_fov90.jpg"
+    },
+    "vision": {
+      "impervious_pct": 80,
+      "drainage_score": 5,
+      "flatness_score": 7,
+      "vegetation_pct": 20,
+      "sidewalk_score": 6,
+      "risk_qualitative": 6,
+      "notes": "도로와 건물이 많아 불투수면 비율이 높다. 배수 상태는 보통이나 식생이 부족해 침수 위험이 중간 정도로 관찰됨."
+    }
+  },
+  {
+    "lon": 126.93206500000016,
+    "lat": 37.485749999999996,
+    "cell_id": "50_67",
+    "flood_proba": 0.9551438089590288,
+    "impervious_ratio": 1.0000000000009808,
+    "veg_ratio": 0.0,
+    "elev_mean": 31.438394165039064,
+    "slope_mean": 3.402761456004149,
+    "coverage": "OK",
+    "sv_date": "2018-04",
+    "images": {
+      "0": "streetview_cache/37.485750_126.932065_h0_640x640_fov90.jpg",
+      "90": "streetview_cache/37.485750_126.932065_h90_640x640_fov90.jpg",
+      "180": "streetview_cache/37.485750_126.932065_h180_640x640_fov90.jpg",
+      "270": "streetview_cache/37.485750_126.932065_h270_640x640_fov90.jpg"
+    },
+    "vision": {
+      "impervious_pct": 80,
+      "drainage_score": 6,
+      "flatness_score": 7,
+      "vegetation_pct": 20,
+      "sidewalk_score": 5,
+      "risk_qualitative": 6,
+      "notes": "상대적으로 불투수 면적이 높고 배수 상태가 양호하나, 식생이 적고 평탄한 지역으로 침수 우려가 있음."
+    }
+  },
+  {
+    "lon": 126.93997500000019,
+    "lat": 37.48395,
+    "cell_id": "57_65",
+    "flood_proba": 0.9548009488722567,
+    "impervious_ratio": 1.0000000000004512,
+    "veg_ratio": 0.0,
+    "elev_mean": 29.28952522277832,
+    "slope_mean": 3.4640124802544414,
+    "coverage": "OK",
+    "sv_date": "2018-04",
+    "images": {
+      "0": "streetview_cache/37.483950_126.939975_h0_640x640_fov90.jpg",
+      "90": "streetview_cache/37.483950_126.939975_h90_640x640_fov90.jpg",
+      "180": "streetview_cache/37.483950_126.939975_h180_640x640_fov90.jpg",
+      "270": "streetview_cache/37.483950_126.939975_h270_640x640_fov90.jpg"
+    },
+    "vision": {
+      "impervious_pct": 85,
+      "drainage_score": 6,
+      "flatness_score": 7,
+      "vegetation_pct": 15,
+      "sidewalk_score": 5,
+      "risk_qualitative": 6,
+      "notes": "도로 및 건물이 많아 불투수면 비율이 높음. 주변에 나무가 있으나 공간이 제한적임."
+    }
+  },
+  {
+    "lon": 126.92754500000017,
+    "lat": 37.49025000000011,
+    "cell_id": "46_72",
+    "flood_proba": 0.9545281269223828,
+    "impervious_ratio": 1.000000000000625,
+    "veg_ratio": 0.0,
+    "elev_mean": 27.482938957214355,
+    "slope_mean": 2.6414726592800255,
+    "coverage": "OK",
+    "sv_date": "2014-11",
+    "images": {
+      "0": "streetview_cache/37.490250_126.927545_h0_640x640_fov90.jpg",
+      "90": "streetview_cache/37.490250_126.927545_h90_640x640_fov90.jpg",
+      "180": "streetview_cache/37.490250_126.927545_h180_640x640_fov90.jpg",
+      "270": "streetview_cache/37.490250_126.927545_h270_640x640_fov90.jpg"
+    },
+    "vision": {
+      "impervious_pct": 80,
+      "drainage_score": 6,
+      "flatness_score": 7,
+      "vegetation_pct": 20,
+      "sidewalk_score": 7,
+      "risk_qualitative": 6,
+      "notes": "도로와 인도가 혼합된 지역으로, 비가 올 경우 배수 문제 발생 가능성이 있음."
+    }
+  },
+  {
+    "lon": 126.91737500000013,
+    "lat": 37.483050000000006,
+    "cell_id": "37_64",
+    "flood_proba": 0.9531594622680317,
+    "impervious_ratio": 0.9999999999997006,
+    "veg_ratio": 0.0,
+    "elev_mean": 24.47436389923096,
+    "slope_mean": 2.9132862082089646,
+    "coverage": "OK",
+    "sv_date": "2018-04",
+    "images": {
+      "0": "streetview_cache/37.483050_126.917375_h0_640x640_fov90.jpg",
+      "90": "streetview_cache/37.483050_126.917375_h90_640x640_fov90.jpg",
+      "180": "streetview_cache/37.483050_126.917375_h180_640x640_fov90.jpg",
+      "270": "streetview_cache/37.483050_126.917375_h270_640x640_fov90.jpg"
+    },
+    "vision": {
+      "impervious_pct": 85,
+      "drainage_score": 6,
+      "flatness_score": 7,
+      "vegetation_pct": 15,
+      "sidewalk_score": 7,
+      "risk_qualitative": 6,
+      "notes": "상대적으로 불투수면이 높고, 배수구는 가시적이나 상태가 여전히 개선이 필요해 보인다."
+    }
+  }
+]
